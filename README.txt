@@ -1,0 +1,2 @@
+NutriSnap v0.1 — personal prototype
+Open index.html directly for a desktop preview. For local PWA development on Linux Mint, open a terminal in this folder and run python3 -m http.server 8000 then visit http://localhost:8000. For iPhone installation and offline service worker support, deploy to an HTTPS static host. No backend or AI API is configured. Data stays in browser localStorage; export CSV regularly. Food values are approximate. PDF currently prints the current view only. No clinical validation. No native push notifications or recipes yet.
